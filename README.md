@@ -1,10 +1,11 @@
 # Driver
 
 cocos creator 写的一个简单的曲线运动demo
-
+```
 Author:JerryYang 
 version:2.4.0 
 creator by 2020.07.10 
+```
 
 
 - 利用贝塞尔曲线让物体做曲线运动，并且绘制把曲线绘制出来;
@@ -13,5 +14,5 @@ creator by 2020.07.10
 
 
 有问题可以联系我：
-QQ：1752216795
-WeChat：17722473872
+QQ：*1752216795*
+WeChat：*17722473872*
