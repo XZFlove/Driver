@@ -1,11 +1,12 @@
 # Driver
 
-cocos creator 写的一个简单的曲线运动
+cocos creator 写的一个简单的曲线运动demo
+
 Author:JerryYang
+
+version:2.4.0
+
 creator by 2020.07.10
-
-
-版本：2.4.0
 
 
 - 利用贝塞尔曲线让物体做曲线运动，并且绘制把曲线绘制出来;
