@@ -1,10 +1,9 @@
 # Driver
 
-cocos creator 写的一个简单的曲线运动demo
+cocos creator 2.4.0 写的一个简单的曲线运动demo
 ```
 Author:JerryYang 
 creator by 2020.07.10 
-version:2.4.0 
 ```
 
 
