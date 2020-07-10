@@ -3,8 +3,8 @@
 cocos creator 写的一个简单的曲线运动demo
 ```
 Author:JerryYang 
-version:2.4.0 
 creator by 2020.07.10 
+version:2.4.0 
 ```
 
 
@@ -13,6 +13,6 @@ creator by 2020.07.10
 - 控制物体沿曲线的的正方向。
 
 
-有问题可以联系我：
-QQ：*1752216795*
-WeChat：*17722473872*
+有问题可以联系我：  
+QQ：*1752216795*  
+WeChat：*17722473872*  
