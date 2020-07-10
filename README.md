@@ -1,4 +1,4 @@
-# Driver
+# Driver-BezierCurvePath
 
 cocos creator 2.4.0 写的一个简单的曲线运动demo
 ```
